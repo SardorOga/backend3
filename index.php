@@ -1,5 +1,15 @@
 <?php
 echo "salom";
+
+    echo "asdasda";
+echo "sh";
+echo 'asds';
+$a = 2343243;
+$b = 2345;
+$c = $a*$b;
+echo $c;
+echo 'wffdvd';
+
 echo "asdasda";
 echo "asdasda";
 echo "asdasda";
@@ -24,7 +34,6 @@ function test()
 echo "asdasda";    echo "asdasda";
 echo "asdasda";    echo "asdasda";
 
-echo "bug`";
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
