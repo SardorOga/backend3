@@ -46,4 +46,4 @@ class Core
         }
     }
 }
-
+echo "asdasd";
