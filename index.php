@@ -1,16 +1,20 @@
 <?php
 echo "salom";
-    echo "asdasda";
-echo "asdasda";    echo "asdasda";
-echo "asdasda";    echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
 echo "asdasda";
 echo "asdasda";
 
-function test(){
+function test()
+{
     echo "asdasd";
     echo "asdasd";
     echo "asdasd";
- echo "sardor";
+    echo "Dushamov";
+    echo "sardor";
     echo "asdasd";
     echo "asdasd";
 }
