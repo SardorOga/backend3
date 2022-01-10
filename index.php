@@ -72,5 +72,5 @@ class Core
         }
     }
 }
-echo "asdasd";
-echo "created new branch"
+echo "sherrrrrrrrrrrrrr";
+echo "created new branch";
