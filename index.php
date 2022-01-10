@@ -1,5 +1,6 @@
 <?php
 echo "salom";
+
     echo "asdasda";
 echo "sh";
 echo 'asds';
@@ -8,6 +9,31 @@ $b = 2345;
 $c = $a*$b;
 echo $c;
 echo 'wffdvd';
+
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+echo "asdasda";
+
+function test()
+{
+    echo "asdasd";
+    echo "asdasd";
+    echo "asdasd";
+    echo "Dushamov";
+    echo "sardor";
+    echo "asdasd";
+    echo "asdasd";
+}
+//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
+
+    echo "asdasda";
+echo "asdasda";    echo "asdasda";
+echo "asdasda";    echo "asdasda";
+
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
