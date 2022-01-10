@@ -10,6 +10,7 @@ function test(){
     echo "asdasd";
     echo "asdasd";
     echo "asdasd";
+ echo "sardor";
     echo "asdasd";
     echo "asdasd";
 }
