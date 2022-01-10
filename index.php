@@ -74,5 +74,3 @@ class Core
 }
 echo "asdasd";
 
-
-echo "this is Behruz's branch";
