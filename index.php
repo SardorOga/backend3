@@ -52,4 +52,4 @@ class Core
         }
     }
 }
-
+echo "asdasd";
