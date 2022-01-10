@@ -72,5 +72,5 @@ class Core
         }
     }
 }
-echo "asdasd";
+echo "sherzooooooooooooood";
 
