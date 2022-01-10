@@ -73,3 +73,4 @@ class Core
     }
 }
 echo "asdasd";
+echo "created new branch"
